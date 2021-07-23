@@ -1,0 +1,216 @@
+Your implementation
+Processes you followed
+Data why and how newer implementation will help and how it will be validated plus checks you performed
+Any innovation or patentable approach that can be considered in future
+Detailed Project Report
+ 
+ Problem statement
+ 
+Improving recommendation and search results for resources and courses in https://edex.adobe.com.
+Using Elasticsearch, JavaScript, Typescript and NodeJs.
+
+My Learnings and Exploration
+
+I learned- 
+Elasticsearch and Kibana
+Typescript
+How to integrate Elasticsearch clients with NodeJs 
+Performance optimisations with JavaScript
+Research and Analysing different similarity algorithms modules for best results.
+How things work at large scale.
+Vue.js
+Making code more scalable, modular and easy to read for new people.
+Git/Github
+
+I explored a lot of new things. I deep dive in every technology I was learning and implementing. I was trying to be as innovative as I can. 
+Made the project from scratch. 
+I tested every use case of all algorithms which I used, tried several ways to optimise elasticsearch and as compared to start, we reached a point when we are getting phenomenal results. Optimised and modified search queries by a lot of different factors, we will discuss that all in detail in this report.
+As the time goes, I was given different datasets of actual EdEx data and I was integrating that all in the project by different ways.
+Dataset was not straight-forward, I have to write some programs and algos to retrieve data from those complex datasets which are connected in some ways. And later converting the retrieved data into useful forms.
+I googled a lot.
+
+Integrated English, Dutch and Japanese languages as a query in the backend identification and Elasticsearch, and tuning the parameters for best recommendation outcome from search results
+Implementing every new feature comes with errors also, so fixing those errors was yet another interesting tasks and I learnt many things from that to not to repeat those things in future.
+
+My mentor Vineeth Nilakant sir helped me a lot  in my journey, as sharing resources for my problems, told how to optimise and scale it on big level and review the codes when I raise PRs.
+
+It was an overall great experience and I love the process and journey of making this project.
+
+
+Industry Solutions
+
+Many companies like Netflix, Youtube uses Machine Learning for personalised content recommendation and ranks the content accordingly. But this is not the only way to rank 
+things, score-based search  ranking also produce great results.
+
+Tech Giants which use Elasticsearch for ranking and recommendation 
+Adobe, Netflix, LinkedIn, Walmart, Microsoft, Slack, udemy, shopify, github, Stackoverflow,  etc 
+
+There are few competitors of Elasticsearch such as - 
+ Algolia, Azure Search, Amazon cloud search, etc
+
+We prefer Elasticsearch as its highly popular, trusted and offers more features as compare to other softwares. And it can be integrated easily with javascript, python, java and lot more for large scale development
+
+
+My  Implementation        https://git.corp.adobe.com/adhamija/EdEx-ES
+
+Before starting the actual implementation, let us see the results first.
+Displaying the top 5 recommended search results for each query.
+
+
+
+Queries is Dutch
+
+Queries in Japanese
+
+
+   Similarity Modules I implemented and Researched 
+
+
+
+
+                                                       		              Queries in English,  Japanese and Dutch	
+
+
+
+
+
+
+
+
+So let me start with a brief intro, then we’ll move to the detailed one.
+
+The objective of this project is to make the best recommendations and search results. Like when you open https://edex.adobe.com then we see a lot of courses for example https://edex.adobe.com/resource/v45092e1b , now see the recommended courses in the Related resources section. So that has to be improved. We have to recommend relevant courses there.
+
+So, to improve it, we’ll recommend those related resources with the description of current course page which is then fed to Elasticsearch server and do all the operations in backend and then produce the best recommendations.
+
+
+Basically every course has many things associated with it, eg - title, description, short-description, Tags, Subjects, Products, academic-levels, a unique id and lot more things. Our recommendations are based on every relevant factor and information we have.
+
+So, I was given different datasets in json format which contains all of the information about the courses. I have to integrate that dataset in Elasticsearch server and have to do certain things on that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So, let us start with the implementation part in detail now.
+
+Index.ts 
+It’s  the main file where most logic and code is written.
+
+First I imported the Elasticsearch client and made the client connection with the Elasticsearch server in the local development setup.
+
+
+localhost:9200 is where our elasticsearch local development is hosted.
+
+Imported all the required datasets in  index.ts file 
+
+
+Data is not in a proper format, so I have to write multiple programs and algos  to retrieve all data.
+Solved this problem by building mappings from the datasets and retrieving those complex information by writing another program for it.
+For eg - 
+ An object from tags.json
+
+I mapped “id” with “title”,  so that we can retrieve tags if we fed id. Every json was in different format, I made mapping of every important info. Made maps of products, tags, subjects and  academic-level.  This all mapping was made for a purpose.
+
+This is an object of “resources.json” , there are products, subjects, etc.. and these all are in the form of a complex string, and in that strings, we have certain ids which are their, so we have to extract those “ids” from there and then from the mappings we made, we have to find the original things associated with these ids.
+And to do these things we wrote multiple programs which we’ll see in the code.
+
+our Datasets
+
+
+EdEx is in 3 languages - English, Dutch and Japanese.
+Everyone has a different siteId. So, I also segregated my indices based on different languages, for making code more modular. We’ll see it later how different languages are analysed in Elasticsearch
+               
+5. Now lets come to Elasticsearch and Kibana part, later we’ll see how we integrated everything with Typescript and Javascript.
+
+Before making different queries and logics, first we have to upload data into the elasticsearch server. We’ll use Bulk API for that purpose.
+The format of data which is uploaded is like - 
+{“index”: {“_id”: “     ”  ,  “_index”: “     ” }}
+{“title”: “    ” , “description”: “    “ ,  “tags”: ”     ” ,  “subjects”: “     ”  ,   ……...}
+{“index”: {“_id”: “     ”  ,  “_index”: “     ” }}
+{“title”: “    ” , “description”: “    “ ,  “tags”: ”     ” ,  “subjects”: “     ”  ,   ……...}
+{“index”: {“_id”: “     ”  ,  “_index”: “     ” }}
+{“title”: “    ” , “description”: “    “ ,  “tags”: ”     ” ,  “subjects”: “     ”  ,   ……...}
+
+With every document we have to pass its index id also.
+Now, scroll above and see the resources.json file, we have to make our indices and all data  from that file. So, to do that, we used a javascript function called flatmap (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap).
+Also in the resources.json, there is a field - “status”, we have to only include a document if the status is active, and we have to ignore the inactive status documents.
+
+
+
+We filtered out the data before passing it to flatmap. Took only those documents which are active.
+
+Now see below, how we used flatmap.
+
+
+
+
+
+
+
+This function convertStringsToActualInfo - this takes the string from resources.json and the mappings we made earlier. For eg - if you see products, subjects, tags in resources.json, then in that big complex string, there are some ids, suppose 3 ids are there in tags, so in the original document which we have to upload in elasticsearch, we have to give original tag names to a particular document. See the results(7 pages up) for reference, there you can see what tags, subjects, products I am talking about.
+
+6. Now writing some logical programs for retrieval of data.
+First I coded extractIdFromTagString by using regex, things were working fine, but that was not optimised as the time complexity for regex is O(n^2), so to reduce this complexity, I used some another logic which is JSON.parse, it's an amazing function which does all the things behind the scenes. As the string is in json formatted string, so JSON.parse will convert that stringified json into original json in an optimal way in O(n).
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat
+
+And this convertStringToActualInfo basically does the final operation. 3 things are passed into this function - name of field, string (information from which we want to retrieve) and maps (of those fields which we made). As you see in resource.json, the entire string is passed and an array is returned which contains the mapped value of ids of that string, we display that array in the results. See the final result screenshots above for more clarity.
+
+7. Make custom mappings as we discussed above
+
+
+
+These are the different mappings we have made, you can see each one in the codebase.
+Each of these export maps which we import in index.ts and use them.
+https://git.corp.adobe.com/adhamija/EdEx-ES
+
+8. Making interface in index.ts
+
+In addition to driving consistency across TypeScript classes,I used interfaces to ensure proper values are being passed into properties, constructors, or functions. These are some small things which make code more modular and scalable, we have adopted multiple such practices to make the code more adaptable and scalable.
+
+
+9. Now lets upload the data into our local development elasticsearch server.
+	We will use Bulk API for that - 
+
+
+
+We made a body of the data above, now we are uploading this into elasticsearch server with bulk API.
+Then we check if any error is there.
+We also used the count API, which counts how many documents we upload on the server.
+
+As of now we uploaded Number of active resources for -
+English language = 15061
+Dutch language = 90
+Japanese language = 168
+
+10. Now lets see that how Elasticsearch search API is used with the client
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

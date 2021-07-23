@@ -1,0 +1,610 @@
+photoshop, ps, Ps, Photoshop
+illustrator, Ai, ai, Illustrator
+indesign, id, Id, InDesign
+lightroom, lr, Lr, Lightroom
+premier pro, pr, Pr, Adobe Premier Pro
+encore, en, En, Encore
+flash, fl, Fl, flash professional
+dreamweaver, dw, Dw, Dreamweaver
+after effects, Ae, AE, ae, After Effects
+bridge, Br, br, Bridge
+prelude, pl, Pl, Prelude
+fireworks, Fw, fw, Fireworks
+audition, au, Au
+speedgrade, sg
+flash builder, Fb
+spark, sp
+character animator, Ch
+adobe xd, xd
+fuse, fs
+fresco, fr
+rush, ru
+April, Apr
+December, Dec
+Earth, earth, world, globe
+English, English language
+February, Feb
+France, French Republic
+Friday, Fri
+German, High German, German language
+India, Bharat
+Italy, Italian Republic, Italia
+January, Jan
+Japan, Nippon, Nihon
+Monday, Mon
+Moon, moon
+November, Nov
+October, Oct
+Saturday, Sabbatum, Sat
+Spain, Espana
+Sunday, Lord's Day, Dominicus, Sun
+Thursday, Th
+United Kingdom, UK, U.K., Britain, Northern Ireland, Great Britain
+United States, US, U.S., USA, U.S.A.
+Wednesday, Midweek, Wed
+ability, power
+about, almost, most, nearly, near, nigh, virtually, well-nigh
+about, around
+above, higher up
+abrupt, precipitous, sharp
+accept, take, have
+account, business relationship
+achieve, accomplish, attain, reach
+acme, height, elevation, peak, pinnacle, summit, superlative, meridian, tiptop, top
+act, deed, human action, human activity
+act, move
+action, activity, activeness
+actor, histrion, player, thespian, role player
+actually, really
+acuate, acute, sharp, needlelike
+ad, advertisement, advertizement, advertising, advertizing, advert
+add, add together
+addition, add-on, improver
+adept, expert, good, practiced, proficient, skillful, skilful
+adjacent, next
+admit, acknowledge
+advantage, reward
+advantage, vantage
+affect, impact, bear upon, bear on, touch on, touch
+again, once again, once more, over again
+ago, agone
+agree, hold, concur, concord
+agreement, understanding
+aid, assist, assistance, help
+airheaded, dizzy, empty-headed, featherbrained, giddy, light-headed, lightheaded, silly
+airplane, aeroplane, plane
+airport, airdrome, aerodrome, drome
+alive, live
+alone, lone, lonely, solitary
+altitude, height
+always, ever, e'er
+among, amongst, amid, amidst
+animal, animate being, beast, brute, creature, fauna
+announce, denote
+announcement, proclamation, annunciation, declaration
+another, some other
+answer, reply, respond
+answer, reply, response
+ant, emmet, pismire
+anteroom, antechamber, entrance hall, foyer, lobby, vestibule
+any, whatever, whatsoever
+apartment, flat
+apparel, wearing apparel, dress, clothes
+area, expanse, surface area
+argent, silver, silvery, silverish
+argue, contend, debate, fence
+argue, reason
+argument, statement
+army, regular army, ground forces
+art, fine art
+artist, creative person
+ask, inquire, enquire
+assail, assault, set on, attack
+astute, sharp, shrewd
+attack, onslaught, onset, onrush
+attempt, effort, endeavor, endeavour, try
+attention, attending
+attitude, mental attitude
+audio, sound
+aureate, gilded, gilt, gold, golden
+authority, authorization, authorisation, potency, dominance, say-so
+award, accolade, honor, honour, laurels
+baby, babe, infant
+back, dorsum
+bag, handbag, pocketbook, purse
+bargain, deal
+basket, handbasket
+bathroom, bath
+beginning, origin, root, rootage, source
+behave, acquit, bear, deport, conduct, comport, carry
+being, beingness, existence
+beloved, dear, dearest, honey, love
+bend, curve
+bespeak, betoken, indicate, point, signal
+better, improve, amend, ameliorate, meliorate
+between, betwixt
+beverage, drink, drinkable, potable
+bicycle, bike, wheel, cycle
+bill, account, invoice
+biology, biological science
+birth, nativity, nascency, nascence
+bit, chip, flake, fleck, scrap
+blessing, approval, approving
+blue, bluish, blueish
+blueprint, design, pattern
+breast, chest
+bright, brilliant, vivid
+bring, convey, take
+brother, blood brother
+brow, forehead
+brown, brownish, chocolate-brown, dark-brown
+brusque, brusk, curt, short
+building, edifice
+buy, purchase
+calculator, reckoner, figurer, estimator, computer
+call, telephone, call up, phone, ring
+camera, photographic camera
+campaign, cause, crusade, drive, movement, effort
+capital, capital letter, uppercase, upper-case letter, majuscule
+capital, working capital
+car, auto, automobile, machine, motorcar
+carbohydrate, saccharide, sugar
+cardinal, central, fundamental, key, primal
+care, attention, aid, tending
+case, instance, example
+cell, jail cell, prison cell
+center, centre, middle, heart, eye
+center, centre, midpoint
+central, telephone exchange, exchange
+certain, sure
+championship, title
+change, alter, modify
+character, grapheme, graphic symbol
+cheap, inexpensive
+check, bank check, cheque
+chemical, chemic
+chemical, chemical substance
+chemical element, element
+chemistry, chemical science
+chief, main, primary, principal, master
+child, kid
+chin, mentum
+choice, selection, option, pick
+choose, take, select, pick out
+church, church building
+cinema, movie theater, movie theatre, movie house, picture palace
+city, metropolis, urban center
+class, form, grade, course
+classify, class, sort, assort, sort out, separate
+close, shut
+club, social club, society, guild, gild, lodge, order
+cognition, knowledge, noesis
+coil, whorl, roll, curl, curlicue, ringlet, gyre, scroll
+coldness, cold, low temperature, frigidity, frigidness
+collar, neckband
+color, colour, coloring, colouring
+coloring material, colouring material, color, colour
+committee, commission
+common, mutual
+company, companionship, fellowship, society
+comparison, comparing
+complete, finish
+complimentary, costless, free, gratis, gratuitous
+component, constituent, element, factor, ingredient
+computer, computing machine, computing device, data processor, electronic computer, information processing system
+concluding, final, last, terminal
+condition, status
+connection, connexion, connectedness
+connection, connexion, connector, connecter, connective
+conscious, witting
+construct, build, make
+contend, fight, struggle
+contest, competition
+control, command
+copy, re-create
+correct, right
+cotton, cotton fiber, cotton wool
+cough, coughing
+country, state, land
+couple, pair, twosome, twain, brace, span, yoke, couplet, distich, duo, duet, dyad, duad
+court, courtroom
+court, tribunal, judicature
+cow, moo-cow
+crack, cleft, crevice, fissure, scissure
+crush, crunch, compaction
+culture, civilization, civilisation
+cupboard, closet
+current, electric current
+current, stream
+curtain, drape, drapery, mantle, pall
+curvature, curve
+curve, curved shape
+customer, client
+cut, cutting
+dainty, nice, overnice, prissy, squeamish
+damage, harm, impairment
+dance band, dance orchestra
+dangerous, unsafe
+daughter, girl
+daze, shock, stupor
+death, decease, expiry
+decide, make up one's mind, determine
+decision, determination, conclusion
+decoration, ornament, ornamentation
+defense, defence, defense force, defence force
+degree, grade, level
+delicate, fragile, frail
+department, section
+describe, depict, draw
+design, designing
+destruction, devastation
+detail, particular, item
+detect, observe, find, discover, notice
+development, evolution
+deviation, divergence, departure, difference
+dictionary, lexicon
+difficult, hard
+directly, straight, direct
+director, manager, managing director
+dirty, dingy, muddied, muddy
+dirty, soiled, unclean
+discover, find
+diverse, various
+diverseness, diversity, multifariousness, variety
+divide, split, split up, separate, dissever, carve up
+doubt, uncertainty, incertitude, dubiety, doubtfulness, dubiousness
+down, downwards, downward, downwardly
+drink, imbibe
+dwelling, home, domicile, abode, habitation, dwelling house
+economic, economical
+economy, economic system
+edge, border
+education, instruction, teaching, pedagogy, didactics, educational activity
+effort, elbow grease, exertion, travail, sweat
+eight, 8, viii
+eighteen, 18, xviii
+eighth, 8th
+eighty, 80, lxxx, fourscore
+electric, electrical
+elementary, simple, uncomplicated, unproblematic
+elevator, lift
+eleven, 11, xi
+embrace, encompass, comprehend, cover
+end, stop, finish, terminate, cease
+engineering, engineering science, applied science, technology
+enhance, heighten, raise
+enjoy, bask, relish, savor, savour
+enough, plenty
+entertainment, amusement
+entirely, exclusively, solely, alone, only
+environment, environs, surroundings, surround
+especial, exceptional, particular, special
+establish, found, plant, constitute, institute
+estimate, gauge, approximate, guess, judge
+estrus, oestrus, heat, rut
+even, fifty-fifty
+evening, eve, even, eventide
+examination, exam, test
+exceed, transcend, overstep, pass, go past, top
+excellent, first-class, fantabulous, splendid
+expect, look, await, wait
+explain, explicate
+express, limited
+expression, look, aspect, facial expression, face
+eye, oculus, optic
+fabric, cloth, material, textile
+face, human face
+factory, mill, manufacturing plant, manufactory
+fail, neglect
+fake, false, faux, imitation, simulated
+fall, autumn
+false, mistaken
+family, family unit
+family, household, house, home, menage
+father, male parent, begetter
+fatty, fat
+fear, fearfulness, fright
+feather, plume, plumage
+feature, characteristic
+feel, experience
+feel, sense
+female, female person
+fifteen, 15, xv
+fifth, 5th
+fifty, 50, l
+fight, fighting, combat, scrap
+fill, fill up, make full
+film, cinema, celluloid
+find, regain
+finish, destination, goal
+fire, flame, flaming
+firm, house, business firm
+firm, solid
+fiscal, financial
+five, 5, v
+flat, level, plane
+flight, flying
+floor, flooring
+floor, level, storey, story
+flush, level, even out, even
+fly, wing
+fold, crease, plication, flexure, crimp, bend
+following, next
+food, nutrient
+foot, human foot, pes
+football, football game
+footing, basis, ground
+footstep, pace, step, stride
+force, forcefulness, strength
+foreign, strange
+forest, wood, woods
+form, shape, cast
+forty, 40, xl, twoscore
+four, 4, iv
+fourteen, 14, xiv
+fourth, 4th, quaternary
+fourth dimension, time
+free, liberate, release, unloose, unloosen, loose
+frequently, often, oftentimes, oft, ofttimes
+front, front end, forepart
+full, total
+fume, smoke
+function, office, part, role
+function, purpose, role, use
+function, work, operate, go, run
+further, farther
+get, acquire
+glass, drinking glass
+glue, gum, mucilage
+goat, caprine animal
+gold, atomic number 79
+golf, golf game
+good, goodness
+govern, rule
+government, authorities, regime
+gradient, slope
+gray, grayness, grey, greyness
+green, greenish, light-green, dark-green
+grey, gray, greyish, grayish
+group, grouping
+guest, invitee
+hair, pilus
+hand, manus, mitt, paw
+handle, grip, handgrip, hold
+hat, chapeau, lid
+hate, detest
+hate, hatred
+hateful, mean
+have, have got, hold
+hazard, jeopardy, peril, risk, endangerment
+head, caput
+head, chief, top dog
+health, wellness
+heart, pump, ticker
+heed, mind, listen
+help, assist, aid
+here, hither
+historic period, age
+hit, hitting, striking
+hit, smash, smasher, strike, bang
+homo, man, human being, human
+hook, claw
+horse, Equus caballus
+hospital, infirmary
+hotness, heat, high temperature
+hurt, injure
+husband, hubby, married man
+ice, water ice
+idea, thought
+ill, sick
+imitate, copy, simulate
+imperial, majestic, purple, regal, royal
+incorrect, wrong
+increase, increment
+increase, increment, growth
+individual, private
+industry, manufacture
+infinitesimal, minute
+information, info
+injure, wound
+inquiry, enquiry, research
+inside, within
+institution, establishment
+interest, involvement
+internet, net, cyberspace
+introduce, innovate
+introduce, present, acquaint
+invention, innovation, excogitation, conception
+iron, atomic number 26
+issue, number
+jewel, gem, precious stone
+job, task, chore
+join, bring together
+jolt, jar, jounce, shock
+journey, journeying
+judge, justice, jurist
+jump, leap, bound, spring
+keep, maintain, hold
+kind, sort, form, variety
+king, male monarch, Rex
+kiss, buss, osculation
+large, big
+late, belatedly, tardily
+leaf, leafage, foliage
+leap, jump, saltation
+learn, larn, acquire
+let, allow, permit
+lie, prevarication
+like, similar
+list, listing
+listen, hear, take heed
+mail, mail service, postal service, post
+make, create
+male, manful, manlike, manly, virile
+management, direction
+manner, mode, style, way, fashion
+mark, grade, score
+marker, marking, mark
+market, marketplace, market place
+marriage, matrimony, union, spousal relationship, wedlock
+marriage, wedding, marriage ceremony
+marry, get married, wed, conjoin, hook up with, get hitched with, espouse
+master, master copy, original
+match, fit, correspond, check, jibe, gibe, tally, agree
+match, lucifer, friction match
+material, stuff
+matter, affair, thing
+meal, repast
+mean, intend
+mean, mean value
+meaning, pregnant, significant
+means, agency, way
+measure, mensurate, measure out
+measure, step
+measurement, measuring, measure, mensuration
+meet, run into, encounter, run across, come across, see
+meeting, coming together
+member, fellow member
+memory, retention, retentiveness, retentivity
+menstruation, menses, menstruum, catamenia, period, flow
+mention, advert, bring up, cite, name, refer
+metallic, metal
+metallic element, metal
+milkshake, milk shake, shake
+million, 1000000
+mind, head, brain, psyche, nous
+minister, government minister
+minor, modest, small, small-scale, pocket-size, pocket-sized
+minute, min
+mistake, error, fault
+mod, modern, modernistic
+moisture, wet
+moment, minute, second, instant
+moment, mo, minute, second, bit
+more, more than
+morning, morn, morning time, forenoon
+mother, female parent
+motion, movement, move, motility
+mountain, mount
+mouth, oral cavity, oral fissure, rima oris
+move, displace
+musician, instrumentalist, player
+name, call
+nation, land, country
+natural language, tongue
+near, close, nigh
+neck, cervix
+necktie, tie
+need, demand
+neighbor, neighbour
+nerve, nervus
+net, network, mesh, meshing, meshwork
+net income, net, net profit, lucre, profit, profits, earnings
+nether, under
+news, intelligence, tidings, word
+newspaper, paper
+night, nighttime, dark
+nine, 9, ix
+nineteen, 19, xix
+ninety, 90, xc
+ninth, 9th
+noise, dissonance, racket
+normally, usually, unremarkably, commonly, ordinarily
+north, due north, northward, N
+nose, olfactory organ
+obviously, evidently, manifestly, patently, apparently, plainly
+offer, offering
+office, business office
+officeholder, officer
+olfactory property, smell, aroma, odor, odour, scent
+opportunity, chance
+option, alternative, choice
+orange, orangish
+order, monastic order
+organization, organisation
+outburst, burst, flare-up
+outside, exterior
+owner, possessor
+package, bundle, packet, parcel
+pain, hurting
+paint, pigment
+painting, picture
+park, commons, common, green
+part, section, division
+particularly, peculiarly, especially, specially
+pass, hand, reach, pass on, turn over, give
+pass, laissez passer
+passenger, rider
+past, past times, yesteryear
+pause, intermission, break, interruption, suspension
+percentage, percent, per centum, pct
+person, individual, someone, somebody, mortal, soul
+petroleum, crude oil, crude, rock oil, fossil oil, oil
+phase, stage
+photographer, lensman
+picture, image, icon, ikon
+pilot, airplane pilot
+pink, pinkish
+pipe, pipage, piping
+pivot, pin
+plain, field, champaign
+plan, program, programme
+plant, flora, plant life
+plant, works, industrial plant
+player, participant
+please, delight
+pleasure, pleasance
+plow, plough, turn
+poem, verse form
+poetry, poesy, verse
+point, dot
+poison, toxicant, poisonous substance
+police, police force, constabulary, law
+policeman, police officer, officer
+polish, smooth, smoothen, shine
+politician, politico, pol, political leader
+populace, public, world
+popular, pop
+position, place
+possibly, perchance, perhaps, maybe, mayhap, peradventure
+postage, postage stamp, stamp
+potato, white potato, Irish potato, murphy, spud, tater
+potent, strong, stiff
+powder, pulverization, pulverisation
+power, powerfulness
+practice, practise, exercise, do
+precisely, exactly, just
+present, nowadays
+pressure, pressure level, force per unit area
+prevent, forestall, foreclose, preclude, forbid
+price, cost, toll
+price, terms, damage
+principle, rule
+print, impress
+prison, prison house
+probable, likely
+problem, job
+procedure, process
+process, physical process
+process, treat
+product, production
+professional, professional person
+program, programme, computer program, computer programme
+project, projection
+propose, suggest, advise
+protest, protestation
+prototype, paradigm, epitome, image
+publish, bring out, put out, issue, release
+pull, draw, force
+punishment, penalty, penalization, penalisation
+purple, violet, purplish
+question, inquiry, enquiry, query, interrogation
+quickly, rapidly, speedily, chop-chop, apace
+rain, pelting
+rain, rain down
+rain, rainfall
+raise, lift, elevate, get up, bring up
+range, reach
+rate, charge per unit
+rate, rank, range, order, grade, place
+reach, make, attain, hit, arrive at, gain

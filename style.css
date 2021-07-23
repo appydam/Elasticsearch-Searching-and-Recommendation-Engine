@@ -1,0 +1,29 @@
+.hl {
+  color: #8a084b;
+}
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+hr.sep {
+  border-top: 1.5px solid #729fcf;
+}
+table,
+th,
+td {
+  border: 0.7px solid black;
+  border-collapse: collapse;
+}
+tr:hover {
+  background-color: rgb(245, 254, 255);
+}
+td[rowspan] {
+  vertical-align: top;
+  text-align: left;
+}
+table {
+  background-color: white;
+}
+a {
+  text-decoration: none;
+  color: #7133b0;
+}

@@ -1,0 +1,16 @@
+! [rejected]        master -> master (non-fast-forward) error: failed to push some refs to 'git.corp.adobe.com:adhamija/Nodejs-integration-with-Elasticsearch-for-improving-recommendation-results.git' hint: Updates were rejected because the tip of your current branch is behind hint: its remote counterpart. Integrate the remote changes (e.g. hint: 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+git fetch origin master:tmp
+git rebase tmp
+git push origin HEAD:master
+git branch -D tmp
+
+__________________________________________________________________________________________________________
+
+https://stackoverflow.com/questions/31462683/git-pull-till-a-particular-commit
+
+__________________________________________________________________________________________________________
+
+
+

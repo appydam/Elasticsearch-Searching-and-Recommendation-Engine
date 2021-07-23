@@ -1,0 +1,40 @@
+{
+  "name": "nodewithelastic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./",
+    "start": "tsc && node index.js"
+  },
+  "author": "Arpit Dhamija",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.12.0",
+    "array.prototype.flat": "^1.2.4",
+    "cors": "^2.8.5",
+    "elasticsearch": "^16.7.2",
+    "elasticsearch-browser": "^16.7.1",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "get-json": "^1.0.1",
+    "html-validator": "^5.1.17",
+    "jslint": "^0.12.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "node-html-parser": "^3.3.4",
+    "prettier": "^2.3.0",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.1",
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.3",
+    "nodemon": "^2.0.7"
+  }
+}
